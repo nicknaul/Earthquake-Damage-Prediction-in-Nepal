@@ -8,7 +8,6 @@ import pickle
 
 def make_prediction():
     df_nepal_predict = pd.read_csv("X_test_nepal-damage-prediction.csv", encoding='latin-1')
-    #df_nepal_predict=df_nepal_predict.drop(columns='Unnamed: 0')
     with open("model-nepal-damage-prediction.pkl", "rb") as f:
         model = pickle.load(f)
     predict_damage = pd.Series(model.predict(df_nepal_predict))
