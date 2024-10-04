@@ -5,4 +5,6 @@ This app is trained from the 2015 Gorkha (Nepal) Earthquake building assessment 
 Note: Unzip first the nepal.zip sqlite3 file. It is imperative to run first the earthquake-damage-nepal-model-creation.py python file. Feel free to edit the values in 'X_test_nepal-damage-prediction.csv' to test the model. 
 
 
-Result legend: 1-Severe , 0-Not Severe. Visit: https://nicknaul.github.io/Airbnb-London-Rental-Price-Prediction-Project/
+Result legend: 1-Severe , 0-Not Severe. 
+
+Visit: https://nicknaul.github.io/Airbnb-London-Rental-Price-Prediction-Project/
