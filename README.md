@@ -9,4 +9,4 @@ Note: Unzip first the nepal.zip sqlite3 file. It is imperative to run first the 
 
 Result legend: 1-Severe , 0-Not Severe. 
 
-Visit: https://nicknaul.github.io/Airbnb-London-Rental-Price-Prediction-Project/
+Visit: https://nicknaul.github.io/Earthquake-Damage-Prediction-in-Nepal/
