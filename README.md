@@ -12,3 +12,5 @@ Result legend: 1-Severe , 0-Not Severe.
 Visit the app: https://nicknaul.github.io/Earthquake-Damage-Prediction-in-Nepal/
 
 or https://nicknaul.github.io/myportfolio/
+
+other projects: https://nicknaul.github.io/New-York-Stocks-Volatility-Prediction/
