@@ -1,4 +1,4 @@
-# Earthquake Damage Prediction in Nepal
+# Earthquake Damage Prediction in Nepal using Machine Learning
 
 This app is trained from the 2015 Gorkha (Nepal) Earthquake building assessment data that was comprehensively collected and uploaded in https://eq2015.npc.gov.np/#/download. 
 
